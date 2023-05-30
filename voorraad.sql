@@ -1,0 +1,13 @@
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (1, "monster energy", 5060947543089, 120, 2, 1.65);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (2, "croissant", 0035751111132, 16, 1, 0.45);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (3, "dr pepper", 00078000003154, 12, 2, 0.60);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (4, "whiskey", 00738435265120, 12, 2, 9.50);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (5, "peanut m&m's", 00040000000327, 10, 1, 2.85);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (6, "bak poeder", 00019900003202, 12, 1, 2.10);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (7, "pre workout", 8720828215067, 8, 1, 17.95);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (8, "naturel chips", 00038000844966, 12, 1, 1.35);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (9, "BIC aansteker", 00070330600171, 16, 3, 0.85);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (10, "italiaanse kruiden", 00089836180742, 10, 1, 1.40);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (11, "teriyaki sauce", 00099482405434, 12, 1, 3.10);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (12, "vitamine water", 00786162002983, 14, 2, 1.25);
+INSERT INTO voorraad(id, naam, barcode, aantal, categorie, prijs) VALUES (13, "half volle melk", 43534562435, 80, 4, 3.25);
